@@ -15,7 +15,7 @@ env:
   kernel_repository: PixelExperience-Devices/kernel_xiaomi_sm8250
   kernel_branch: thirteen-wip
   device: munch
-  defconfig: munch_defconfig
+  defconfig: vendor/munch_defconfig
   use_aosp_clang: false
   clang_version: 15
 
